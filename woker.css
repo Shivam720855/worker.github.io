@@ -1,0 +1,45 @@
+ 
+
+body
+{
+ background:    url("images.jfif") no-repeat;
+  background-size: cover;
+ font-family: Arial;
+ color: white;
+}
+h1{
+	color: black;
+	font-style: blue;
+
+}
+
+table
+{
+	margin-top: 30px;
+	margin-right: 400px;
+	font-size: 15px;
+   margin-left: 400px;
+   background-size: 600px;
+   background-color: blue;
+  
+ 
+}
+form{
+	padding: 50px;
+	background: black;
+	border-style: solid;
+	border-width: 10px;
+	border-color: red;
+	border-radius: 50px;
+}
+.submit
+{ 
+	color: green;
+	
+	background-color: green;
+	margin-left: 500px;
+	border-style: solid;
+	line-height: 30px;
+	width: 300px; 
+  	border-radius: 10px;
+}
